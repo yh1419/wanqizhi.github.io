@@ -9,7 +9,7 @@
 
 main:
   - title: "主要论著"
-    url: /paper/
+    url: /paper/main.md
 
   #- title: "Talks"
   #  url: /talks/    
