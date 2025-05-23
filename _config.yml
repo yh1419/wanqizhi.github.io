@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "万齐智"
 title                    : "万齐智——个人简介"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "万齐智"
 description              : &description "personal description"
 url                      : https://wanqizhi1006.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "疾风知劲草，路遥知马力"
   location         : "江西·南昌"
-  employer         : "江西财经大学-计算机与人工智能学院"
+  employer         : "江西财经大学"
   uri              : # URL
   email            : "wanqizhi1006@gmail.com" 
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
