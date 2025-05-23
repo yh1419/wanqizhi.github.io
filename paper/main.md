@@ -1,4 +1,3 @@
-
 最新消息：
 ======
 [30] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Hui Xiong, Dexi Liu, and Xiping Liu. A Gradually Aggregated Multi-Layer Dual-Attention Scheme for Event Representation. Artificial Intelligence, 二审中. (CCF推荐国际A类期刊)
