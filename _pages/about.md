@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: blue;">万齐智</span>，男，37岁，江西南昌人，工学博士，讲师(今年将申报副教授)，硕士生导师，IEEE会员、中国计算机学会(CCF)会员、中文信息学会青年工作委员会委员、中国图象图形学会情感委员会委员。研究方向包括：人工智能、自然语言处理、事件抽取、文本数据挖掘、深度学习。担任ACM Transactions on Information Systems、Information Processing and Management、Knowledge and Information Systems、ACM Transactions on Asian and Low-Resource Language Information Processing等期刊审稿专家，担任ACL、EMNLP、NACCL、SIGKDD、SIGIR、ECAI和CIKM等会议的审稿人。
+<span style="color: blue;">万齐智</span>，男，37岁，江西南昌人，工学博士，讲师(今年将申报副教授)，硕士生导师，IEEE会员、中国计算机学会(CCF)会员、中文信息学会青年工作委员会委员、中国图象图形学会情感委员会委员。
 
-主持江西省自然科学基金面上项目1项、教育厅科学技术项目2项，参与国家自然科学基金面上项目2项、江西省自然科学基金重点项目1项。发表高质量论文20余篇，在中国计算机学会(CCF)推荐的国际A类期刊TOIS，国际A类会议ACL、AAAI，B类会议EMNLP、COLING，国际B类期刊《Information Sciences》，国内T1类期刊《计算机学报》《软件学报》《自动化学报》上发表若干学术论文。目前在投论文7篇(TPAMI和AI期刊各1篇，TOIS期刊2篇，ACL会议3篇)。研究成果授权国家发明专利10余项，申请发明6项。主要教授本科生《程序设计基础》《数据库系统原理》、研究生《自然语言处理》《深度学习》等课程。目前指导研究生9名、协助指导博士3名。
+研究方向包括：人工智能、自然语言处理、事件抽取、文本数据挖掘、深度学习。担任ACM Transactions on Information Systems、Information Processing and Management、Knowledge and Information Systems、ACM Transactions on Asian and Low-Resource Language Information Processing等期刊审稿专家，担任ACL、EMNLP、NACCL、SIGKDD、SIGIR、ECAI和CIKM等会议的审稿人。
+
+主持江西省自然科学基金面上项目1项、教育厅科学技术项目2项，参与国家自然科学基金面上项目2项、江西省自然科学基金重点项目1项。发表高质量论文20余篇，在中国计算机学会(CCF)推荐的国际A类期刊TOIS，国际A类会议ACL、AAAI，B类会议EMNLP、COLING，国际B类期刊《Information Sciences》，国内T1类期刊《计算机学报》《软件学报》《自动化学报》上发表若干学术论文。目前在投论文7篇(TPAMI和AI期刊各1篇，TOIS期刊2篇，ACL会议3篇)。
+
+研究成果授权国家发明专利10余项，申请发明6项。主要教授本科生《程序设计基础》《数据库系统原理》、研究生《自然语言处理》《深度学习》等课程。目前指导研究生9名、协助指导博士3名。
 
 联系方式：<span style="color: blue; font-family: 'Arial';">wanqizhi1006@gmail.com</span>
 
