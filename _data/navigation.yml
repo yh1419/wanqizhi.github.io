@@ -10,7 +10,14 @@
 main:
   - title: "主要论著"
     url: /paper/main.md
-
+  - title: "科研项目"
+    url: /projects/main.md
+  - title: "获奖荣誉"
+    url: /award/main.md
+  - title: "教材教改"
+    url: /publications/main.md
+  - title: "授权专利"
+    url: /patent/main.md
   #- title: "Talks"
   #  url: /talks/    
 
