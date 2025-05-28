@@ -17,7 +17,7 @@ redirect_from:
 
 联系方式：<span style="color: blue; font-family: 'Arial';">wanqizhi1006@gmail.com</span>
 <h1 id="个人经历">-----------------------------</h1>
-<br><br>
+<br>
 
 教育经历：
 ======
@@ -39,7 +39,7 @@ redirect_from:
 
 2014.7-2014.8，腾讯公司(深圳)(获录用offer)
 <h1 id="最新消息">-----------------------------</h1>
-<br><br>
+<br>
 
 最新消息：
 ======
@@ -57,7 +57,7 @@ redirect_from:
 
 [24] Rong Hu, Changxuan Wan, Keli Xiao, Qizhi Wan*, Yuxin Shuai, Xiping Liu, and Dexi Liu. Role-Pair Event Tracing Graph for Joint Document-Level Event Extraction. ACM Transactions on Information Systems (TOIS), 审稿中. (CCF推荐国际A类期刊)
 <h1 id="主要论著">-----------------------------</h1>
-<br><br>
+<br>
 
 主要论著：
 ======
@@ -106,7 +106,7 @@ redirect_from:
 
 [1] 赵凤园, 刘德喜, 万齐智, 万常选, 刘喜平, 廖国琼. 基于知识迁移的情感-原因对抽取. 中国计算语言学大会(CCL), 2022: 497-509
 <h1 id="科研项目">-----------------------------</h1>
-<br><br>
+<br>
 
 科研项目：
 ======
@@ -124,7 +124,7 @@ redirect_from:
 
 [1] 从重大事件大数据中提取宏观经济景气指数, 江西省教育厅科学技术项目, 一般项目, 3万, 2018, 主持
 <h1 id="获奖荣誉">-----------------------------</h1>
-<br><br>
+<br>
 
 获奖：
 ======
@@ -132,7 +132,7 @@ redirect_from:
 
 [1] 江西省研究生“十佳学术之星”, 2023 (全省10名)
 <h1 id="教材教改">-----------------------------</h1>
-<br><br>
+<br>
 
 教材及教改:
 ======
@@ -142,7 +142,7 @@ redirect_from:
 
 [1] 刘德喜, 邱宝林, 狄国强, 蒋剑, 万齐智. 文科背景下计算机系统能力培养的问题求解导向混合式教学模式. 计算机教育, 2024, 5: 97-101
 <h1 id="授权专利">-----------------------------</h1>
-<br><br>
+<br>
 
 专利：
 ======
