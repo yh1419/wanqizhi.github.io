@@ -19,6 +19,9 @@ redirect_from:
 
 <h1 id="个人经历"></h1>
 
+
+
+
 教育经历：
 ======
 2020.09-2023.06，江西财经大学，信息管理与信息系统，博士
@@ -41,6 +44,9 @@ redirect_from:
 
 <h2 id="最新消息"></h2>
 
+
+
+
 最新消息：
 ======
 [30] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Hui Xiong, Dexi Liu, and Xiping Liu. A Gradually Aggregated Multi-Layer Dual-Attention Scheme for Event Representation. Artificial Intelligence, 二审中. (CCF推荐国际A类期刊)
@@ -58,6 +64,9 @@ redirect_from:
 [24] Rong Hu, Changxuan Wan, Keli Xiao, Qizhi Wan*, Yuxin Shuai, Xiping Liu, and Dexi Liu. Role-Pair Event Tracing Graph for Joint Document-Level Event Extraction. ACM Transactions on Information Systems (TOIS), 审稿中. (CCF推荐国际A类期刊)
 
 <h2 id="主要论著"></h2>
+
+
+
 
 主要论著：
 ======
@@ -108,6 +117,9 @@ redirect_from:
 
 <h2 id="科研项目"></h2>
 
+
+
+
 科研项目：
 ======
 [7] 江西省金融风险监测预警平台项目, 江西省地方金融管理局, 589万, 2025, 参与
@@ -126,6 +138,9 @@ redirect_from:
 
 <h2 id="获奖荣誉"></h2>
 
+
+
+
 获奖：
 ======
 [2] 江西省优秀博士论文, 2025
@@ -133,6 +148,9 @@ redirect_from:
 [1] 江西省研究生“十佳学术之星”, 2023 (全省10名)
 
 <h2 id="教材教改"></h2>
+
+
+
 
 教材及教改:
 ======
@@ -143,6 +161,9 @@ redirect_from:
 [1] 刘德喜, 邱宝林, 狄国强, 蒋剑, 万齐智. 文科背景下计算机系统能力培养的问题求解导向混合式教学模式. 计算机教育, 2024, 5: 97-101
 
 <h2 id="授权专利"></h2>
+
+
+
 
 专利：
 ======
