@@ -2,7 +2,7 @@ main:
   - title: "主要论著"
     url: /paper/main.md
   - title: "科研项目"
-    url: /projects/main.md
+    url: /#科研项目
   - title: "获奖荣誉"
     url: /award/main.md
   - title: "教材教改"
