@@ -1,6 +1,10 @@
 main:
+  - title: "个人经历"
+    url: /#个人经历
+  - title: "最新消息"
+    url: /#最新消息
   - title: "主要论著"
-    url: /paper/main.md
+    url: /#主要论著
   - title: "科研项目"
     url: /#科研项目
   - title: "获奖荣誉"
