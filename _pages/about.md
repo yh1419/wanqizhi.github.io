@@ -57,9 +57,10 @@ redirect_from:
 
 [24] Rong Hu, Changxuan Wan, Keli Xiao, Qizhi Wan*, Yuxin Shuai, Xiping Liu, and Dexi Liu. Role-Pair Event Tracing Graph for Joint Document-Level Event Extraction. ACM Transactions on Information Systems (TOIS), 审稿中. (CCF推荐国际A类期刊)
 
-<h2 id="主要论著">主要论著：</h2>
-======
+<h2 id="主要论著"></h2>
 
+主要论著：
+======
 [23] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Dexi Liu, Guoqiong Liao, Xiping Liu, and Yuxin Shuai. A Multifocal Graph-based Neural Network Scheme for Topic Event Extraction. ACM Transactions on Information Systems (TOIS), 2025, 43(1): 1-36. (CCF推荐国际A类期刊)
 
 [22] Qizhi, Wan, Changxuan Wan, Keli Xiao, Hui Xiong, Dexi Liu, Xiping Liu, Rong Hu. Token-Event-Role Structure-based Multi-Channel Document-Level Event Extraction. ACM Transactions on Information Systems (TOIS), 2024, 42(4): 1-27. (CCF推荐国际A类期刊)
@@ -105,9 +106,10 @@ redirect_from:
 
 [1] 赵凤园, 刘德喜, 万齐智, 万常选, 刘喜平, 廖国琼. 基于知识迁移的情感-原因对抽取. 中国计算语言学大会(CCL), 2022: 497-509
 
-<h2 id="科研项目">科研项目：</h2>
-======
+<h2 id="科研项目"></h2>
 
+科研项目：
+======
 [7] 江西省金融风险监测预警平台项目, 江西省地方金融管理局, 589万, 2025, 参与
 
 [6] 文档级事件联合抽取方法及模型研究, 江西省自然科学基金, 面上项目, 10万, 2024, 主持
@@ -122,25 +124,28 @@ redirect_from:
 
 [1] 从重大事件大数据中提取宏观经济景气指数, 江西省教育厅科学技术项目, 一般项目, 3万, 2018, 主持
 
-<h2 id="获奖荣誉">获奖：</h2>
-======
+<h2 id="获奖荣誉"></h2>
 
+获奖：
+======
 [2] 江西省优秀博士论文, 2025
 
 [1] 江西省研究生“十佳学术之星”, 2023 (全省10名)
 
-<h2 id="教材教改">教材及教改:</h2>
-======
+<h2 id="教材教改"></h2>
 
+教材及教改:
+======
 [3] 骆斯文, 万齐智, 李季, 刘喜平 大学信息素养导论, 2024第1版.
 
 [2] 万齐智, 万常选, 刘德喜, 胡蓉, 刘喜平, 骆斯文. 普通高校“C程序设计”课程的教学改革探索与实践. 计算机技术与教育学报, 2024, 12(3): 21-27.
 
 [1] 刘德喜, 邱宝林, 狄国强, 蒋剑, 万齐智. 文科背景下计算机系统能力培养的问题求解导向混合式教学模式. 计算机教育, 2024, 5: 97-101
 
-<h2 id="授权专利">专利：</h2>
-======
+<h2 id="授权专利"></h2>
 
+专利：
+======
 [13] 万齐智, 邹美华, 胡蓉, 万常选. 基于动态事件提示的角色语义捕获方法及系统, 2025
 
 [12] 胡蓉, 万齐智, 万常选, 赵思成, 刘德喜, 刘喜平, 帅宇鑫. 基于角色焦点异质图的文档级事件论元抽取方法, 2025
