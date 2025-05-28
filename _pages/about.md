@@ -17,7 +17,7 @@ redirect_from:
 
 联系方式：<span style="color: blue; font-family: 'Arial';">wanqizhi1006@gmail.com</span>
 
-<h1 id="个人经历" style="margin-top:100px">-----------------------------------</h1>
+<h1 id="个人经历" style="margin-top:500px">-----------------------------------</h1>
 
 教育经历：
 ======
