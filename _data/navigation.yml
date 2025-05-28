@@ -4,8 +4,8 @@ main:
   - title: "科研项目"
     url: /#科研项目
   - title: "获奖荣誉"
-    url: /award/main.md
+    url: /#获奖荣誉
   - title: "教材教改"
-    url: /publications/main.md
+    url: /#教材教改
   - title: "授权专利"
-    url: /patent/main.md
+    url: /#授权专利
