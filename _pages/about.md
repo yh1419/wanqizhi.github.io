@@ -17,7 +17,7 @@ redirect_from:
 
 联系方式：<span style="color: blue; font-family: 'Arial';">wanqizhi1006@gmail.com</span>
 
-教育经历
+<h2 id="个人经历">教育经历</h2>
 ======
 2020.09-2023.06，江西财经大学，信息管理与信息系统，博士
 
@@ -37,7 +37,7 @@ redirect_from:
 
 2014.7-2014.8，腾讯公司(深圳)(获录用offer)
 
-最新消息：
+<h2 id="最新消息">最新消息：</h2>
 ======
 [30] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Hui Xiong, Dexi Liu, and Xiping Liu. A Gradually Aggregated Multi-Layer Dual-Attention Scheme for Event Representation. Artificial Intelligence, 二审中. (CCF推荐国际A类期刊)
 
@@ -53,7 +53,7 @@ redirect_from:
 
 [24] Rong Hu, Changxuan Wan, Keli Xiao, Qizhi Wan*, Yuxin Shuai, Xiping Liu, and Dexi Liu. Role-Pair Event Tracing Graph for Joint Document-Level Event Extraction. ACM Transactions on Information Systems (TOIS), 审稿中. (CCF推荐国际A类期刊)
 
-主要论著：
+<h2 id="主要论著">主要论著：</h2>
 ------
 [23] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Dexi Liu, Guoqiong Liao, Xiping Liu, and Yuxin Shuai. A Multifocal Graph-based Neural Network Scheme for Topic Event Extraction. ACM Transactions on Information Systems (TOIS), 2025, 43(1): 1-36. (CCF推荐国际A类期刊)
 
@@ -116,13 +116,13 @@ redirect_from:
 
 [1] 从重大事件大数据中提取宏观经济景气指数, 江西省教育厅科学技术项目, 一般项目, 3万, 2018, 主持
 
-获奖：
+<h2 id="获奖荣誉">获奖：</h2>
 ======
 [2] 江西省优秀博士论文, 2025
 
 [1] 江西省研究生“十佳学术之星”, 2023 (全省10名)
 
-教材及教改:
+<h2 id="教材教改">教材及教改:</h2>
 ======
 [3] 骆斯文, 万齐智, 李季, 刘喜平 大学信息素养导论, 2024第1版.
 
@@ -130,7 +130,7 @@ redirect_from:
 
 [1] 刘德喜, 邱宝林, 狄国强, 蒋剑, 万齐智. 文科背景下计算机系统能力培养的问题求解导向混合式教学模式. 计算机教育, 2024, 5: 97-101
 
-专利：
+<h2 id="授权专利">专利：</h2>
 ======
 [13] 万齐智, 邹美华, 胡蓉, 万常选. 基于动态事件提示的角色语义捕获方法及系统, 2025
 
