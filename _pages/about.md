@@ -17,7 +17,9 @@ redirect_from:
 
 联系方式：<span style="color: blue; font-family: 'Arial';">wanqizhi1006@gmail.com</span>
 
-<h2 id="个人经历">教育经历</h2>
+<h1 id="个人经历"></h1>
+
+教育经历：
 ======
 2020.09-2023.06，江西财经大学，信息管理与信息系统，博士
 
@@ -37,9 +39,10 @@ redirect_from:
 
 2014.7-2014.8，腾讯公司(深圳)(获录用offer)
 
-<h2 id="最新消息">最新消息：</h2>
-======
+<h2 id="最新消息"></h2>
 
+最新消息：
+======
 [30] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Hui Xiong, Dexi Liu, and Xiping Liu. A Gradually Aggregated Multi-Layer Dual-Attention Scheme for Event Representation. Artificial Intelligence, 二审中. (CCF推荐国际A类期刊)
 
 [29] Qizhi Wan, Changxuan Wan, Keli Xiao, Rong Hu, Dexi Liu, Xiping Liu, Hui Xiong. Token-Token Matrix-based Seq2Seq Generation Approach for Joint Document-Level Event Extraction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 审稿中. (CCF推荐国际A类期刊)
