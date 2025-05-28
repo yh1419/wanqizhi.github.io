@@ -16,7 +16,6 @@ redirect_from:
 研究成果授权国家发明专利10余项，申请发明6项。主要教授本科生《程序设计基础》《数据库系统原理》、研究生《自然语言处理》《深度学习》等课程。目前指导研究生9名、协助指导博士3名。
 
 联系方式：<span style="color: blue; font-family: 'Arial';">wanqizhi1006@gmail.com</span>
-
 <h1 id="个人经历">-----------------------------</h1>
 <br><br>
 
@@ -39,7 +38,6 @@ redirect_from:
 2015.7-2018.8，中国移动通信集团江西有限公司，职员
 
 2014.7-2014.8，腾讯公司(深圳)(获录用offer)
-
 <h1 id="最新消息">-----------------------------</h1>
 <br><br>
 
@@ -58,7 +56,6 @@ redirect_from:
 [25] Rong Hu, Changxuan Wan, Keli Xiao, Qizhi Wan*, Sicheng Zhao, Dexi Liu, and Xiping Liu. RFHG: A Role-Focused Heterogeneous Graph for Document-Level Event Argument Extraction. ACM Transactions on Information Systems (TOIS), 审稿中. (CCF推荐国际A类期刊)
 
 [24] Rong Hu, Changxuan Wan, Keli Xiao, Qizhi Wan*, Yuxin Shuai, Xiping Liu, and Dexi Liu. Role-Pair Event Tracing Graph for Joint Document-Level Event Extraction. ACM Transactions on Information Systems (TOIS), 审稿中. (CCF推荐国际A类期刊)
-
 <h1 id="主要论著">-----------------------------</h1>
 <br><br>
 
@@ -108,7 +105,6 @@ redirect_from:
 [2] Jingan Liu, Dexi Liu, Qizhi Wan, Xiping Liu, Shumei Liao, Changxuan Wan. 基于负监督的自杀风险等级识别. 第十一届全国社会媒体处理大会(SMP), 2023
 
 [1] 赵凤园, 刘德喜, 万齐智, 万常选, 刘喜平, 廖国琼. 基于知识迁移的情感-原因对抽取. 中国计算语言学大会(CCL), 2022: 497-509
-
 <h1 id="科研项目">-----------------------------</h1>
 <br><br>
 
@@ -127,7 +123,6 @@ redirect_from:
 [2] 基于金融时间序列数据的文本生成关键技术研究, 江西省自然科学基金, 重点项目, 20万, 2023, 核心成员
 
 [1] 从重大事件大数据中提取宏观经济景气指数, 江西省教育厅科学技术项目, 一般项目, 3万, 2018, 主持
-
 <h1 id="获奖荣誉">-----------------------------</h1>
 <br><br>
 
@@ -136,7 +131,6 @@ redirect_from:
 [2] 江西省优秀博士论文, 2025
 
 [1] 江西省研究生“十佳学术之星”, 2023 (全省10名)
-
 <h1 id="教材教改">-----------------------------</h1>
 <br><br>
 
@@ -147,7 +141,6 @@ redirect_from:
 [2] 万齐智, 万常选, 刘德喜, 胡蓉, 刘喜平, 骆斯文. 普通高校“C程序设计”课程的教学改革探索与实践. 计算机技术与教育学报, 2024, 12(3): 21-27.
 
 [1] 刘德喜, 邱宝林, 狄国强, 蒋剑, 万齐智. 文科背景下计算机系统能力培养的问题求解导向混合式教学模式. 计算机教育, 2024, 5: 97-101
-
 <h1 id="授权专利">-----------------------------</h1>
 <br><br>
 
